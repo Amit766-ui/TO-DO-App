@@ -49,6 +49,7 @@ Edit
 React.js – Frontend framework
 CSS – For styling
 JavaScript (ES6+)
+
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
